@@ -66,7 +66,7 @@
 		bindings = <
 		&kp APOS &kp COMMA &kp DOT &kp P &kp Y 					   	&kp F &kp G  &kp C    &kp R   &kp L 
 		&mt LCTRL A &kp O &kp E &kp U &kp I 			            &kp D &kp H &kp T &kp N &mt RCTRL S
-		&mt LSFT SEMI &kp Q &kp J &kp K &kp X				        &kp b &kp M  &kp W &kp v &mt LSFT Z
+		&mt LSFT SEMI &kp Q &kp J &kp K &kp X				        &kp B &kp M  &kp W &kp V &mt LSFT Z
           				&mo 1 &kp BSPC  				&kp SPC &lt 2 ENTER 
 		>;
 		};
