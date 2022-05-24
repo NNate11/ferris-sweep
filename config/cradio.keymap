@@ -84,7 +84,7 @@
 		bindings = <
 		&kp ESC &trans &trans  &trans  &trans    			&kp TILDE &kp LT &kp GT &kp BSLH &kp FSLH
 		&kp TAB &trans  &trans  &trans  &trans 	  		   &trans  &kp LEFT &kp DOWN &kp UP  &kp RIGHT
-		&trans  &trans &trans &trans &trans        	   &trans  &trans   &trans   &trans  &trans
+		&kp BT_CLR &trans &trans &trans &trans        	   &trans  &trans   &trans   &trans  &trans
 					  &mo 3 &trans  				&kp SPC  &mo 2 
 		>;
 		};	
