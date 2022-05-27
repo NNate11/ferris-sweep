@@ -87,7 +87,7 @@
 		&trans &bt BT_SEL 0 &bt BT_NXT &bt BT_PRV &trans        &trans  &trans   &trans   &trans  &bt BT_CLR
 					  &mo 3 &trans  				&kp SPC  &mo 2 
 		>;
-		};	uuhhhhuhuhuhuhuhuhuhuhuhuhuhuhuhu
+		};	
 		
         
 	};
